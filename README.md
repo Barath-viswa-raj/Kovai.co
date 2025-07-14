@@ -73,8 +73,12 @@ python main.py
 sample output:
 '''
 A "folder_id.txt" file create for log.
-```
 
+<img width="927" height="798" alt="image" src="https://github.com/user-attachments/assets/056cec10-fc12-4e74-8a4d-2d86b2de1d33" />
+
+<img width="754" height="293" alt="image" src="https://github.com/user-attachments/assets/f1ee5c0b-5a69-40f5-9ec2-4a51cd541b37" />
+
+```
 ---
 ## 🧠 Note
 
