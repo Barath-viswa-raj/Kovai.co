@@ -1,6 +1,20 @@
-# Kovai.co - Structured API Task (Mocked)
+# 📁 Kovai.co Mock API - Document360 Folder CRUD
 
-This project contains mock implementations of the Document360 Drive Folder CRUD API tasks (GET, POST, PUT, DELETE), organized as individual Python files.
+This project contains mock implementations of the Document360 Drive Folder CRUD API tasks (GET, POST, PUT, DELETE), organized as individual Python files.This project demonstrates **mock CRUD operations** for Document360's Folder API.  
+Each operation is modularized into its own file and callable from `main.py`.
+
+---
+
+## 🚀 Features
+
+- 🧾 List Folders (GET)
+- 📂 Create Folder (POST)
+- ✏️ Rename Folder (PUT)
+- 🗑️ Delete Folder (DELETE)
+- ✅ All responses are mocked for safe demo
+- 💻 Clean input/output using terminal
+
+---
 
 ---
 
@@ -22,6 +36,8 @@ This project contains mock implementations of the Document360 Drive Folder CRUD 
 
 ## 🔧 Setup Instructions
 
+Clone the repo:
+
 1. Create a `.env` file in the root directory with:
 
 ```
@@ -42,9 +58,24 @@ python create_folder.py
 python update_folder.py
 python delete_folder.py
 ```
+4.Create .env file
+```
+env
+API_TOKEN=your_mock_token
+```
+---
+---
+finally:
+```
+bash
+python main.py
+```
+sample output:
+'''
+A "folder_id.txt" file create for log.
+```
 
 ---
-
 ## 🧠 Note
 
 - This project uses **mock data** (no real API call).
