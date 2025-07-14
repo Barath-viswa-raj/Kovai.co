@@ -1,4 +1,4 @@
-# 📁 Kovai.co Mock API - Document360 Folder CRUD
+# 📁 Kovai.co  API - Document360 Folder CRUD
 
 This project contains mock implementations of the Document360 Drive Folder CRUD API tasks (GET, POST, PUT, DELETE), organized as individual Python files.This project demonstrates **mock CRUD operations** for Document360's Folder API.  
 Each operation is modularized into its own file and callable from `main.py`.
